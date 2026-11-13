@@ -121,7 +121,7 @@ To get a closer look at the individual listings, i decided to examine the five m
 
 ### Five Most Expensive Listings
 
-| Category | Number of Books |
+| Book Title | Category | Price |
 |---|---|---:|
 | Boar Island (Anna Pigeon #19) | Mystery | £59.48
 | Candide | Classics | £58.63 |
@@ -131,7 +131,7 @@ To get a closer look at the individual listings, i decided to examine the five m
 
 ### Five Least Expensive Listings
 
-| Category | Number of Books |
+| Book Title | Category | Price |
 |---|---|---:|
 | Paitence | Sequential Art | £10.16
 | The Complete Maus | Sequential Art | £10.64 |
